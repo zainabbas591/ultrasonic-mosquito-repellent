@@ -41,13 +41,14 @@ This device is ideal for small indoor areas and can be powered by batteries or U
 
 ## 🧑‍💻 Team Members
 
-- Name 1 (Roll Number)
-- Name 2 (Roll Number)
+- ZAIN ABBAS 
+- ABDUL MOIZ
+- HAMMAD NADEEM
 
 ## 📫 Contact
 
 If you have any questions or suggestions, feel free to contact us.
-
+Email: malikzainabbas591@gmail.com
 ---
 
 *Submitted as part of the Applied Physics Semester Project at Bahria University.*
